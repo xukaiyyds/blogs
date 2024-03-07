@@ -22,7 +22,7 @@
 # cd -
 
 @echo off
-cd C:\Users\admin\Documents\blog\hexo-plog
+cd C:\Users\admin\Documents\blog\vuepress-blog
 git add .
 git commit -m "update vuepress-blog"
 git push origin master
