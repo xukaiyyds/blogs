@@ -69,7 +69,7 @@ module.exports = {
       {
         title: "VuePress",
         desc: "Vue 驱动的静态网站生成器",
-        logo: "https://vuepress.vuejs.org/icons/apple-touch-icon-152x152.png",
+        logo: "https://vuepress.vuejs.org/images/hero.png",
         link: "https://vuepress.vuejs.org/zh/",
       },
     ],
